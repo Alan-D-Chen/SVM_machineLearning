@@ -19,11 +19,9 @@ There are 3 demoes for SVM algorithm. The 1st is easiest one for explaining how 
   * PCA ->[Principal component analysis](https://github.com/Alan-D-Chen/PCA_ICA_DEMO)<br>
  
  ###table:<br>
-表头  | 表头  | 表头
----- | ----- | ------  
-单元格内容  | 单元格内容 | 单元格内容 
-单元格内容  | 单元格内容 | 单元格内容 
+
 <br>
+
 ITEMS|eigenface| Predict & true|
 -----------------|---------------|-----------------
 1|![](https://github.com/Alan-D-Chen/SVM_machineLearning/blob/master/SVM-3.png)|![](https://github.com/Alan-D-Chen/SVM_machineLearning/blob/master/SVM-4.png)
